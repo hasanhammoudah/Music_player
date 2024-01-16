@@ -1,16 +1,11 @@
 # musicapp
 
-A new Flutter project.
 
-## Getting Started
+<div align="center">
+    <img src="assets/images/9bfd3f233f0.png" alt="Project 1" width="500" style="margin: 10px;">
+    <img src="assets/images/9bfd3f233f0 (1).png" alt="Project 2" width="500" style="margin: 10px;">
+    <img src="assets/images/9bfd3f233f0 (2).png" alt="Project 3" width="500" style="margin: 10px;">
+    <img src="assets/images/9bfd3f233f0 (3).png" alt="Project 4" width="500" style="margin: 10px;">
+    <img src="assets/images/9bfd3f233f0 (4).png" alt="Project 4" width="500" style="margin: 10px;">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
